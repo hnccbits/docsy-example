@@ -2,7 +2,7 @@
 ---
 title: "Linux Installations"
 linkTitle: "Linux Installations"
-weight: 3
+weight: 1
 date: 2020-09-18
 description: >
   Feel the power of Linux and various distros!
