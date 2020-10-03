@@ -15,8 +15,23 @@ HnCC Learn(hLearn) is a curated list for the community to learn anything from de
 
 HnCC Learn is by the community for the community.
 
+## Contributing articles 
 
-## Cloning the HnCC Learn (Docsy Example) Project
+#### Non git way
+Create an [issue here](https://github.com/hnccbits/learn.hnccbits.com/issues/new)
+
+#### git way
+Contents are written in markdown (.md). Visit [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to get some idea about markdown.
+
+Now What can you add?
+This is a curated list for resources to learn anything from design to development. Just create some article or some curated list such as courses/materials link inside that particular section in [https://learn.hnccbits.com/docs/](https://learn.hnccbits.com/docs/).
+
+Add contents inside `article_directory/` directory inside `/content/docs/en/`
+For a main content section create `_index.md` and for articles create `article_directory/_index.md` OR `article_name.md`
+
+Feel free to ask anything. We look forward to your first pull request with us :) 
+
+## Cloning the HnCC Learn (Docsy Example) Project in your local system
 
 The following will give you a project that is set up and ready to use (don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site). The `hugo server` command builds and serves the site. If you just want to build the site, run `hugo` instead.
 
