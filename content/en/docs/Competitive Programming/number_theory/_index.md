@@ -1,7 +1,7 @@
 ---
 title: "Number Theory"
 linkTitle: "Number Theory"
-weight: 2
+weight: 1
 description: >
   Resources to learn number theory for competitive programming.
 ---

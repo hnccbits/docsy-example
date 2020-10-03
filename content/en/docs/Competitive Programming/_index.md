@@ -1,7 +1,7 @@
 ---
 title: "Competitive Programming"
 linkTitle: "Competitive Programming"
-weight: 1
+weight: 3
 description: >
   Want to start competitive programming, but don't know from where to start? Don't worry, we have something for you.
 ---
