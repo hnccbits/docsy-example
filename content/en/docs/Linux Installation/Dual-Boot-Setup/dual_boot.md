@@ -68,14 +68,17 @@ Or, from Windows, hold the Shift key while selecting Restart. Go to Troubleshoot
 > It requires the admin password because you are dealing with an important configuration that requires root privileges. Enter your password.
 > After that, you’ll see a screen where you can access the configuration. You can see that Windows lies at the bottom after so many Ubuntu options.
 > All you have to do is to move Windows over the first Ubuntu. You can use the arrow option from the top menu for this task<br><br>
-![Imgur](https://imgur.com/vd3su54.jpg)
+![Imgur](https://imgur.com/vd3su54.jpg)<br>
 
 
 
->Once done, you should have Windows on the top of this list. At this point, you should save this configuration<br>
-![Imgur](https://imgur.com/9EuKmph.jpg)
+>Once done, you should have Windows on the top of this list. At this point, you should save this configuration<br><br>
+![Imgur](https://imgur.com/9EuKmph.jpg)<br>
 >This will edit the Grub menu and you can see the changed boot order at the next restart<br><br>
-![Imgur](https://imgur.com/jw0TuzK.jpg)
+![Imgur](https://imgur.com/jw0TuzK.jpg)<br><br><br>
+![Imgur](https://imgur.com/cmFRFuu.jpg)
+
+
 
 
 
