@@ -1,6 +1,14 @@
-# How To Install Ubuntu Alongside Windows 10 without any Data-Loss
+---
+title: "Dual-Boot Setup"
+linkTitle: "Dual boot Ubuntu with Windows 10 and Windows 8.1"
+weight: 5
+date: 2021-03-30
+description: >
+  Feel the power of Linux and various distros on Windows without using any emulator or virtual disk!
+---
+
+## How To Install Ubuntu Alongside Windows 10 without any Data-Loss
 > This works for other Debian based distros like Linux Mint, Kali Linux, etc<br>
-> Dual boot Ubuntu with Windows 10 and Windows 8.1:<br>
 > The below-listed steps would work for all versions of Ubuntu. There are various prerequisites to install Ubuntu on a UEFI system(Windows 10 & Windows 8.1 has UEFI Mode):-<br>
 
 ### Ubuntu ISO burned to a USB or DVD (we’ll see it)
@@ -57,7 +65,9 @@ Or, from Windows, hold the Shift key while selecting Restart. Go to Troubleshoot
 * Install Grub Customizer in Ubuntu using a PPA:
 
 > sudo add-apt-repository ppa:danielrichter2007/grub-customizer 
+> 
 > sudo apt update
+> 
 > sudo apt install grub-customizer
 
 * Once installed, search for Grub Customizer in the menu and open it<br><br>
