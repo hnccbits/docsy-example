@@ -1,7 +1,7 @@
 ---
 title: "Dual-Boot Setup"
 linkTitle: "Dual boot Ubuntu with Windows 10 and Windows 8.1"
-weight: 5
+weight: 1
 date: 2021-03-30
 description: >
   Feel the power of Linux and various distros on Windows without using any emulator or virtual disk!
