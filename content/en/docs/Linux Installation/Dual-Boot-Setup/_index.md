@@ -27,11 +27,13 @@ description: >
 
 #### Step 4: Disable fast startup in Windows [optional]
 * Go to Control Panel > Hardware and Sound > Power Options > System Settings > Choose what the power buttons do and uncheck the Turn on fast startup box.
+
 #### Step 5: Disable secure boot in Windows 10 and 8.1
 * Open the PC BIOS menu. You can often access this menu by pressing a key during the bootup sequence, such as F1, F2, F12, or Esc.
 Or, from Windows, hold the Shift key while selecting Restart. Go to Troubleshoot > Advanced Options: UEFI Firmware Settings.
 * Find the Secure Boot setting, and if possible, set it to Disabled. This option is usually in either the Security tab, the Boot tab, or the Authentication tab.
 * Save changes and exit. The PC reboots
+
 #### Step 6: Installing Ubuntu along with Windows 10, 8.1
 * Plug in the USB and boot the system from it
 * To boot from USB, will have to choose boot from USB option from within Windows itself. Either with PC Setting (like for UEFI) or pressing shift key while clicking on Restart.
